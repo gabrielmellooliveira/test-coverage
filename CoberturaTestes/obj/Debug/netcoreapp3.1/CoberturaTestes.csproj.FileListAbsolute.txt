@@ -1,0 +1,13 @@
+C:\Users\gabri\source\repos\CoberturaTestes\CoberturaTestes\bin\Debug\netcoreapp3.1\CoberturaTestes.exe
+C:\Users\gabri\source\repos\CoberturaTestes\CoberturaTestes\bin\Debug\netcoreapp3.1\CoberturaTestes.deps.json
+C:\Users\gabri\source\repos\CoberturaTestes\CoberturaTestes\bin\Debug\netcoreapp3.1\CoberturaTestes.runtimeconfig.json
+C:\Users\gabri\source\repos\CoberturaTestes\CoberturaTestes\bin\Debug\netcoreapp3.1\CoberturaTestes.runtimeconfig.dev.json
+C:\Users\gabri\source\repos\CoberturaTestes\CoberturaTestes\bin\Debug\netcoreapp3.1\CoberturaTestes.dll
+C:\Users\gabri\source\repos\CoberturaTestes\CoberturaTestes\bin\Debug\netcoreapp3.1\CoberturaTestes.pdb
+C:\Users\gabri\source\repos\CoberturaTestes\CoberturaTestes\obj\Debug\netcoreapp3.1\CoberturaTestes.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\CoberturaTestes\CoberturaTestes\obj\Debug\netcoreapp3.1\CoberturaTestes.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\CoberturaTestes\CoberturaTestes\obj\Debug\netcoreapp3.1\CoberturaTestes.AssemblyInfo.cs
+C:\Users\gabri\source\repos\CoberturaTestes\CoberturaTestes\obj\Debug\netcoreapp3.1\CoberturaTestes.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\CoberturaTestes\CoberturaTestes\obj\Debug\netcoreapp3.1\CoberturaTestes.dll
+C:\Users\gabri\source\repos\CoberturaTestes\CoberturaTestes\obj\Debug\netcoreapp3.1\CoberturaTestes.pdb
+C:\Users\gabri\source\repos\CoberturaTestes\CoberturaTestes\obj\Debug\netcoreapp3.1\CoberturaTestes.genruntimeconfig.cache
