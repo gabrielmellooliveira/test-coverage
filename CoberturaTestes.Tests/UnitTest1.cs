@@ -14,7 +14,7 @@ namespace CoberturaTestes.Tests
 
             var result = string.IsNullOrEmpty(teste);
 
-            Assert.IsTrue(result);
+            Assert.IsFalse(result);
         }
     }
 }
