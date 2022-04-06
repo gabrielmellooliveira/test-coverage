@@ -1,4 +1,4 @@
-name: dotnet5_tests_coverlet_nuget
+name: tests
 
 on:
   push:
@@ -24,7 +24,7 @@ jobs:
       with:
         dotnet-version: 3.1
 
-    - name: Testes com .NET 5 + xUnit + Fluent Assertions + Coverlet
+    - name: Testes com .NET 3.1 + Coverlet
       run: dotnet test ${{ env.CAMINHO_PROJETO_TESTES }} --verbosity minimal --logger:"html;LogFileName=resultado-testes.html" --collect:"XPlat Code Coverage"
 
     - name: Instalar ReportGenerator
@@ -69,10 +69,10 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    - name: Setup .NET 5
+    - name: Setup .NET 3.1
       uses: actions/setup-dotnet@v1
       with:
-        dotnet-version: 5.0.101
+        dotnet-version: 3.1
 
     - name: Geração do package
       run: dotnet pack ${{ env.CAMINHO_PROJETO }} -c Release -o out
